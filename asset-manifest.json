@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https//Rahman2806.github.io/.To-Do-List-App/static/css/main.7308874d.css",
+    "main.js": "/https//Rahman2806.github.io/.To-Do-List-App/static/js/main.ec6ad4fc.js",
+    "static/js/453.ed3810f9.chunk.js": "/https//Rahman2806.github.io/.To-Do-List-App/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/https//Rahman2806.github.io/.To-Do-List-App/index.html",
+    "main.7308874d.css.map": "/https//Rahman2806.github.io/.To-Do-List-App/static/css/main.7308874d.css.map",
+    "main.ec6ad4fc.js.map": "/https//Rahman2806.github.io/.To-Do-List-App/static/js/main.ec6ad4fc.js.map",
+    "453.ed3810f9.chunk.js.map": "/https//Rahman2806.github.io/.To-Do-List-App/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7308874d.css",
+    "static/js/main.ec6ad4fc.js"
+  ]
+}
